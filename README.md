@@ -2,9 +2,9 @@
 
 Text summarization is a Natural Language Processing (NLP) task that summarizes the information in large texts for quicker consumption without losing vital information.
 
-There are two main text summarization methods:
+### There are two main text summarization methods:
 
-Extractive Text Summarization – attempts to identify significant sentences and then adds them to the summary, which will contain exact sentences from the original text.
+Extractive Text Summarization – attempts to identify significant sentences and then adds them to the summary, which will contain exact sentences from the original text.  
 Abstractive Text Summarization – attempts to identify important sections, interpret the context and intelligently generate a summary.
 
 - Import 'spacy' for stopwords and 'string' for punctuation.
